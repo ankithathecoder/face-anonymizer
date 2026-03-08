@@ -31,10 +31,10 @@ face-anonymyser
 ├── webcam_blur.py
 │
 ├── data
-│   └── celebrity.jpg
+│   └── test_img.jpg
 │
 ├── output
-│   └── blurred_celebrity.jpg
+│   └── blurred_test_img.jpg
 │
 ├── webcam_demo.png
 │
