@@ -46,26 +46,22 @@ face-anonymyser
 
 ### Image Face Blur
 
-Input image:
-
-`data/celebrity.jpg`
-
-Output image:
-
-`output/blurred_celebrity.jpg`
+| Input | Output |
+|------|------|
+| <img src="data/test_img.png" width="300"> | <img src="output/blurred_test_img.png" width="300"> |
 
 ### Webcam Face Blur
 
 Example webcam output:
 
-![Webcam Demo](webcam_demo.png)
+<img src="webcam_demo.png" width="350">
 
 ## Installation
 
 Clone the repository:
 
 ```
-git clone https://github.com/ankithathecoder/face-anonymyser.git
+git clone https://github.com/ankithathecoder/face-anonymizer.git
 cd face-anonymyser
 ```
 
