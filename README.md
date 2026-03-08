@@ -62,7 +62,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/ankithathecoder/face-anonymizer.git
-cd face-anonymyser
+cd face-anonymizer
 ```
 
 Create a virtual environment and install dependencies:
